@@ -18,6 +18,8 @@ This application serves as a bridge between your ROS2-powered robots  and a web 
 - **ROS Bridge Server** 
 - **Svelte (Vite version)** - automatically set up below
 
+<img width="794" height="490" alt="Screenshot 2026-05-15 170050" src="https://github.com/user-attachments/assets/c857201b-6359-487b-8dd7-720a4ed07d82" />
+
 ---
 
 ## 🛠 Installation & Setup
@@ -58,5 +60,4 @@ When prompted:
   npm run dev
 ```
 Click the "Network" link in the terminal output to open the application in your browser.
-<img width="794" height="490" alt="Screenshot 2026-05-15 170050" src="https://github.com/user-attachments/assets/6b44f61b-d7bd-4bca-a26e-a8c6ef49bcfe" />
 
